@@ -1,0 +1,13 @@
+{
+  "name": "ffmpeg-typing-animator",
+  "version": "1.0.0",
+  "description": "Generate typing animation videos using FFmpeg, ASS subtitles and click sounds.",
+  "main": "cli.mjs",
+  "type": "module",
+  "scripts": {
+    "overlay": "node cli.mjs"
+  },
+  "keywords": ["ffmpeg", "typing effect", "video", "subtitle", "cli"],
+  "author": "Your Name",
+  "license": "MIT"
+}
