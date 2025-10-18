@@ -57,6 +57,14 @@ ffmpeg -version
 npm run overlay -- "npm run 'Hello World'"
 
 ```
+Just replace the quoted string with the text you want to animate:
+
+```bash
+npm run overlay -- "git commit -m 'Initial release'"
+npm run overlay -- "Welcome to my channel!"
+```
+
+
 
 This will generate:
 
