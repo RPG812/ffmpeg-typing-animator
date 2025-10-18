@@ -1,7 +1,5 @@
 # ⌨️ FFmpeg Typing Animator
 
-# ⌨️ FFmpeg Typing Animator
-
 **FFmpeg Typing Animator** is a CLI tool that creates realistic terminal-style typing effect videos —  
 complete with synchronized key click sounds, smooth `.ass` subtitle animation,  
 and a **green chroma background** ready for compositing in post-production 🎬
